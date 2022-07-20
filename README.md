@@ -1,7 +1,7 @@
-**# UFOs**
+# **UFOs**
 The UFO Finder webpage and dynamic table provides an  in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, it filters for the city, state, country, and shape.
 
-**##How to use the Webpage**
+## **How to use the Webpage**
 1. Go to https://dennisdelriocarbo.github.io/UFOs/ on your web browser.
 2. 
 
@@ -19,6 +19,6 @@ In a summary statement, describe one drawback of this new design and two recomme
 
 ### One drawback of this webpage (2 pt)
 
-###Recommendations for further development (4 pt)
+### Recommendations for further development (4 pt)
 1.
 2
